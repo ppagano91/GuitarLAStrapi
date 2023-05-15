@@ -1,0 +1,21 @@
+postgres://root:rBwIM8Mss0GI2r6YsKQGIifdASy7pbaQ@dpg-ch0sjtb3cv203btbi19g-a.oregon-postgres.render.com/guitarla_cqjg
+
+Available commands in your project:
+
+  npm run develop
+  Start Strapi in watch mode. (Changes in Strapi project files will trigger a server restart)
+
+  npm run start
+  Start Strapi without watch mode.
+
+  npm run build
+  Build Strapi admin panel.
+
+  npm run strapi
+  Display all available commands.
+
+
+============================================================================
+cloudinary
+http://localhost:1337/api/guitarras/:id
+http://localhost:1337/api/guitarras?populate=*
